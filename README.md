@@ -20,3 +20,15 @@ correlation structure, and a covariance-based risk decomposition.
 
 ## Tools
 Python · pandas · numpy · matplotlib · seaborn · yfinance
+
+## Key Findings
+- Annualised return: 19.67%
+- Annualised volatility: 15.79%
+- Sharpe ratio: 0.973
+- Maximum drawdown: -21.97%
+- Top risk contributor: [ticker] ([X.XX]% of portfolio risk vs 6.67% capital weight)
+
+## How to Run
+1. Open `portfolio_analytics.ipynb` in Jupyter or Google Colab
+2. Run cells sequentially from top to bottom
+3. Required: `pip install yfinance pandas numpy matplotlib seaborn`
