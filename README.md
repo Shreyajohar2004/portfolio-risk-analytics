@@ -1,4 +1,5 @@
 # Portfolio Risk & Performance Analytics
+![Portfolio Dashboard](portfolio_dashboard.png)
 
 End-to-end Python pipeline for analysing a 15-stock equity portfolio across 
 five sectors. Computes return, volatility, Sharpe ratio, maximum drawdown, 
