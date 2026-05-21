@@ -26,7 +26,7 @@ Python · pandas · numpy · matplotlib · seaborn · yfinance
 - Annualised volatility: 15.79%
 - Sharpe ratio: 0.973
 - Maximum drawdown: -21.97%
-- Top risk contributor: [ticker] ([X.XX]% of portfolio risk vs 6.67% capital weight)
+- Top risk contributor: [NVDA] ([14% of portfolio risk vs 6.67% capital weight)
 
 ## How to Run
 1. Open `portfolio_analytics.ipynb` in Jupyter or Google Colab
